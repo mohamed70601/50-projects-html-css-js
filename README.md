@@ -2,7 +2,7 @@
 
 A collection of small creative frontend projects built to sharpen my web development skills, based on the legendary [Udemy course by Brad Traversy & Florin Pop](https://www.udemy.com/course/50-projects-50-days/).
 
-Each project focuses on key DOM manipulation techniques and modern UI/UX concepts using only **HTML**, **CSS**, and **JavaScript** — with a few projects making minimal use of **external APIs** or **libraries**.
+Each project focuses on key DOM manipulation techniques and modern UI/UX concepts using only **HTML**, **CSS**, and **JavaScript** — with a few projects making use of **external APIs** and/or **libraries**.
 
 ## 🚀 Live Project Demos
 
